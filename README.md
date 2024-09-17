@@ -39,3 +39,4 @@ Hoy en día, soy muy feliz con mis elecciones y mi objetivo es algún día ser d
 https://github.com/Ophion-73/practica-3-.1
 
 [practica 5](parctica-5.md) 
+[practica 7](https://github.com/Ophion-73/Practica-6) 
