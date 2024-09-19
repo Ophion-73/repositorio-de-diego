@@ -40,4 +40,4 @@ https://github.com/Ophion-73/practica-3-.1
 
 [practica 5](parctica-5.md) 
 [practica 7](https://github.com/Ophion-73/Practica-6) 
-[practica 8](parctica-8.md) 
+[practica 8](practica-8.md) 
